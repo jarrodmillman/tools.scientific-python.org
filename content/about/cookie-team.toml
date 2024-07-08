@@ -1,0 +1,39 @@
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/2279598?v=4"'
+alt = 'Avatar of Dan Allan'
+{{< /image >}}
+Dan Allan'''
+link = 'https://github.com/danielballan'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/6528957?u=b74cdd23ec9edad8546b503b3fe86b927de41c25&v=4"'
+alt = 'Avatar of Gregory Lee'
+{{< /image >}}
+Gregory Lee'''
+link = 'https://github.com/grlee77'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/4616906?u=a32581e89b27309b54a9d491b7073657e6537aff&v=4"'
+alt = 'Avatar of Henry Schreiner'
+{{< /image >}}
+Henry Schreiner'''
+link = 'https://github.com/henryiii'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/45071?u=c779b5e06448fbc638bc987cdfe305c7f9a7175e&v=4"'
+alt = 'Avatar of Stefan van der Walt'
+{{< /image >}}
+Stefan van der Walt'''
+link = 'https://github.com/stefanv'

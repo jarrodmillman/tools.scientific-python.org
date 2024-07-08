@@ -1,0 +1,39 @@
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/6788290?u=d9a388224b87d55106cb3e6199d02ebc1d8e0553&v=4"'
+alt = 'Avatar of Brigitta Sipőcz'
+{{< /image >}}
+Brigitta Sipőcz'''
+link = 'https://github.com/bsipocz'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/335567?v=4"'
+alt = 'Avatar of M Bussonnier'
+{{< /image >}}
+M Bussonnier'''
+link = 'https://github.com/Carreau'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/123428?v=4"'
+alt = 'Avatar of Jarrod Millman'
+{{< /image >}}
+Jarrod Millman'''
+link = 'https://github.com/jarrodmillman'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/2090236?v=4"'
+alt = 'Avatar of P. L. Lim'
+{{< /image >}}
+P. L. Lim'''
+link = 'https://github.com/pllim'

@@ -1,0 +1,59 @@
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/314716?u=2ddf7ef795245a09841c4c3cec44d5f2e1dc4265&v=4"'
+alt = 'Avatar of Thomas Robitaille'
+{{< /image >}}
+Thomas Robitaille'''
+link = 'https://github.com/astrofrog'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/6788290?u=d9a388224b87d55106cb3e6199d02ebc1d8e0553&v=4"'
+alt = 'Avatar of Brigitta Sipőcz'
+{{< /image >}}
+Brigitta Sipőcz'''
+link = 'https://github.com/bsipocz'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/1810515?u=7ce54662c05cef69f64f9c9241778d0ea3fedeb5&v=4"'
+alt = 'Avatar of Daniel McCloy'
+{{< /image >}}
+Daniel McCloy'''
+link = 'https://github.com/drammock'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/123428?v=4"'
+alt = 'Avatar of Jarrod Millman'
+{{< /image >}}
+Jarrod Millman'''
+link = 'https://github.com/jarrodmillman'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/2090236?v=4"'
+alt = 'Avatar of P. L. Lim'
+{{< /image >}}
+P. L. Lim'''
+link = 'https://github.com/pllim'
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< image >}}
+src = 'https://avatars.githubusercontent.com/u/311639?u=756f7676a49f3974d648878fd07d5d1a92980346&v=4"'
+alt = 'Avatar of Simon Conseil'
+{{< /image >}}
+Simon Conseil'''
+link = 'https://github.com/saimn'
