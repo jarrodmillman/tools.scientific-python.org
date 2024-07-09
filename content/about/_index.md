@@ -28,10 +28,6 @@ For more information, see our
 
 {{< grid file="tools-team.toml" columns="2 3 4 5" />}}
 
-### Changelist Maintainers
-
-{{< grid file="changelist-team.toml" columns="2 3 4 5" />}}
-
 ### Nightly Wheels Maintainers
 
 {{< grid file="nightly-wheels-developers.toml" columns="2 3 4 5" />}}

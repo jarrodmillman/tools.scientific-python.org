@@ -39,7 +39,7 @@ A framework for building check'''
 
 [[item]]
 type = 'card'
-header = '[changelist](https://github.com/scientific-python/changelist/)'
+header = '[changelist](changelist)'
 body = '''
 A tool for automating release notes.
 '''
