@@ -26,21 +26,21 @@ They have maintainer rights.
 
 For new tools and services, the Tool / Service Maintainer role can be assigned to any or all of the existing maintainers.
 
-### Tools Team
+### Tools / Service Steering Committee
 
-Tools Team Members are maintainers that have demonstrated continued commitment to this Scientific Python sub-project through ongoing contributions.
+The Tools / Service Steering Committee members are maintainers that have demonstrated continued commitment to this Scientific Python sub-project through ongoing contributions.
 
-You can think of them as a "meta team", responsible not (only) for individual tools, but for accepting new tools and services, and reviewing tool/service related submissions to https://blog.scientific-python.org.
-They have triage rights.
+You can think of them as a "meta team", responsible not (only) for individual tools, but for accepting new tools and services, and reviewing tool/service related submissions to https://tools.scientific-python.org.
+They have maintainer rights.
 
-A new Tools Team Member can be nominated by any existing Tools Team Member.
-Discussion about new Tools Team Members nominations is one of the few activities that takes place on the Tools Team Members' private management forum.
-The decision to invite a new Tools Team Member must be made by "lazy consensus", meaning unanimous agreement by all responding existing Tools Team Members.
+A new Tools / Service Steering Committee member can be nominated by any existing Steering Committee member.
+Discussion about new Tools / Service Steering Committee nominations is one of the few activities that takes place on the Tools / Service Steering Committee members' private discussion forum.
+The decision to invite a new Tools / Service Steering Committee member must be made by "lazy consensus", meaning unanimous agreement by all responding existing Tools / Service Steering Committee members.
 Invitation must take place at least one week after initial nomination, to allow existing members time to voice objections.
 
 ## Decision Making Process
 
-The Tools Team uses a _consensus seeking_ process for making decisions.
+The Tools / Service Steering Committee uses a _consensus seeking_ process for making decisions.
 The group tries to find a resolution that has no open objections among team members.
 Members are expected to distinguish between fundamental objections to a proposal and minor perceived flaws that they can live with, and not hold up the decision making process for the latter.
 If no option can be found without an objection, the decision is escalated to the [Scientific Python Community Leaders](https://scientific-python.org/about/#community-leaders).

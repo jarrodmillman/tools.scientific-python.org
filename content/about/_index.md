@@ -24,43 +24,43 @@ Community members must adhere to our [code of conduct](https://scientific-python
 For more information, see our
 [governance and decision making process](/about/governance).
 
-### Tools Team
+### Tools / Service Steering Committee
 
 {{< grid file="tools-team.toml" columns="2 3 4 5" />}}
 
-### Changelist Team
+### Changelist Maintainers
 
 {{< grid file="changelist-team.toml" columns="2 3 4 5" />}}
 
-### nightly-wheels-developers
+### Nightly Wheels Maintainers
 
 {{< grid file="nightly-wheels-developers.toml" columns="2 3 4 5" />}}
 
-### package-admin-team
+### Package Admin Maintainers
 
 {{< grid file="package-admin-team.toml" columns="2 3 4 5" />}}
 
-### developer-statistics
+### Developer Statistics Maintainers
 
 {{< grid file="developer-statistics.toml" columns="2 3 4 5" />}}
 
-### actions-admin-team
+### Actions Maintainers
 
 {{< grid file="actions-admin-team.toml" columns="2 3 4 5" />}}
 
-### bot-team
+### Bot Maintainers
 
 {{< grid file="bot-team.toml" columns="2 3 4 5" />}}
 
-### circleci-artifacts-redirector-action-team
+### CircleCI Artifacts Redirector Maintainers
 
 {{< grid file="circleci-artifacts-redirector-action-team.toml" columns="2 3 4 5" />}}
 
-### cookie-team
+### Cookie Maintainers
 
 {{< grid file="cookie-team.toml" columns="2 3 4 5" />}}
 
-### testing-infrastructure
+### Testing Infrastructure Maintainers
 
 {{< grid file="testing-infrastructure.toml" columns="2 3 4 5" />}}
 
